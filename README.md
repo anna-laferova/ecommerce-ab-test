@@ -202,7 +202,7 @@
 ## Структура проекта
 
 ```text
-AB_Test_Ecommerce/
+ecommerce-ab-test/
 │
 ├── README.md
 │
