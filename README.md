@@ -206,14 +206,12 @@ AB_Test_Ecommerce/
 │
 ├── README.md
 │
-├── data/
-│   └── ecommerce_conversion_ab_test_data.csv
 │
 ├── python/
 │   └── ab_test_analysis.ipynb
 │
 └── reports/
-    └── AB_Test_Ecommerce_Analysis_Report.xlsx
+    └── AB_Test_Ecommerce_Report.xlsx
 ```
 
 ---
@@ -224,13 +222,9 @@ AB_Test_Ecommerce/
 
 Полный анализ A/B-теста на Python: проверка качества данных, экспериментального дизайна, статистический тест, сегментный анализ и выводы.
 
-`reports/AB_Test_Ecommerce_Analysis.xlsx`
+`reports/AB_Test_Ecommerce_Report.xlsx`
 
 Итоговый Excel-отчёт с основными результатами, сегментным анализом, динамикой, проверкой групп и описанием методологии.
-
-`data/ecommerce_conversion_ab_test_data.csv`
-
-Исходные данные эксперимента.
 
 ---
 
